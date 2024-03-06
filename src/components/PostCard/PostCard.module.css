@@ -1,0 +1,17 @@
+.postCard {
+    border: 1px solid grey;
+    padding: 10px;
+    height: 80px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.postCardTitle {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.postCardContent {
+    font-size: 18px;
+    font-weight: 500;
+}
